@@ -1,0 +1,5 @@
+com.zorben.dns
+com.zorben.dns.message
+com.zorben.dns.rrdef
+com.zorben.dns.rrdef.rdata
+com.zorben.dns.util
