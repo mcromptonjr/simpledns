@@ -2,6 +2,11 @@ SimpleDNS
 =========
 SimpleDNS is a pure Java library implementing the non-Experimental querying features of RFC 1034 and RFC 1035.  This library was created for the purpose of learning how DNS queries and responses are encoded and interpreted. While you are free to use this software in commercial applications, I would highly advise against doing so as this code has not gone through thorough testing, and is intended for educational use only.
 
+### Documentation
+* [RFC 1034 - DOMAIN NAMES - CONCEPTS AND FACILITIES](https://tools.ietf.org/html/rfc1034)
+* [DOMAIN NAMES - IMPLEMENTATION AND SPECIFICATION](https://tools.ietf.org/html/rfc1035)
+* [SimpleDNS Java Documentation](https://mcromptonjr.github.io/simpledns/)
+
 ### Example
 An example DNS query can be found in the DNSExample.java source file.  For your convenience, the meat of the example can be found below:
 ```java
